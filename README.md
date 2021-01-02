@@ -8,7 +8,7 @@ Discord bot template made in typescript.
 
 2. In repo directory, run these commands to install the files needed.
 ```
- npm i discordjs/discord.js
+ npm i discord.js
 ```
 ```
 npm i 1Computer1/discord-akairo
